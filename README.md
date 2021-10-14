@@ -8,7 +8,7 @@ SonarQube is a Code Quality Assurance tool that collects and analyzes source cod
 - [VirtualBox](https://www.virtualbox.org/wiki/Download_Old_Builds_5_2)
 
 
-## Installation :
+## How to Build :
 1. Install Vagrant and VirtualBox in your computer use the link above _(Install the specific version so that the tools can run properly)_.
 2. Download the zip folder from github and unzip it into your computer.
 3. Open command prompt and move to the directory you unzip the file by entering this command :
